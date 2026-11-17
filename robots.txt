@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Noch nicht freigegeben (SEITE_FREIGEGEBEN in pins-data.js)
